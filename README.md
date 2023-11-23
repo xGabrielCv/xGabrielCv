@@ -28,6 +28,6 @@
 <!-- Estatísticas Gerais -->
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=xgabrielcv&show_icons=true&locale=en&bg_color=000000" alt="xgabrielcv" /></p>
 
-<!-- Estatísticas de Conquistas (Streak) -->
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xgabrielcv&bg_color=000000" alt="xgabrielcv" /></p>
+![Gráfico de Atividade](https://activity-graph.herokuapp.com/graph?username=xgabrielcv&theme=dark)
+
 
