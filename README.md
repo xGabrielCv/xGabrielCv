@@ -9,7 +9,7 @@
 
 - 🔭 ESTOU TRABALHANDO NA [Disciplina Metodos de Desenvolvimnto de software](https://github.com/unb-mds/2023-2-Squad10)
 
-- 🌱 ESTOU APRENDENDO **C,C++ E JAVA**
+- 🌱 ESTOU APRENDENDO **C, C++, JAVA E PYTHON**
 
 - 📫 CONTATO **jgabrielcv1903@gmail.com**
 
