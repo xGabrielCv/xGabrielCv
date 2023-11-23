@@ -1,4 +1,4 @@
-![MasterHead](https://previews.123rf.com/images/karpenkoilia/karpenkoilia1711/karpenkoilia171100016/90422226-conceito-de-linha-vetorial-para-ci%C3%AAncia-da-computa%C3%A7%C3%A3o-banner-linear-da-web-para-programa%C3%A7%C3%A3o.jpg)
+
 <h1 align="center">OI 👋, MEU NOME É GABRIEL</h1>
 <h3 align="center">ESTUDANDO E ME DIVERTINDO COM PROGRAMAÇÃO</h3>
 <img align="right" alt="Coding" width="400" src= 'https://dl.openseauserdata.com/cache/originImage/files/527a9783c28c70962773a73db797ea4d.gif'>
