@@ -1,39 +1,75 @@
+# 👋 Olá, eu sou o JÉSUS GABRIEL  
+🎓 Estudante de **Engenharia de Software na Universidade de Brasília (UnB)**  
+💻 Desenvolvedor apaixonado por **automação, design e soluções práticas**
 
-<h1 align="center">OI 👋, MEU NOME É GABRIEL</h1>
-<h3 align="center">ESTUDANDO E ME DIVERTINDO COM PROGRAMAÇÃO</h3>
-<img align="right" alt="Coding" width="400" src= 'https://dl.openseauserdata.com/cache/originImage/files/527a9783c28c70962773a73db797ea4d.gif'>
+---
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=xgabrielcv&label=Profile%20views&color=0e75b6&style=flat" alt="xgabrielcv" /> </p>
+## 🧭 Sobre mim
+
+Sou um desenvolvedor em formação com foco em **automação, front-end e design de interfaces**.  
+Gosto de transformar ideias em soluções úteis e acessíveis, explorando desde **Python e Tkinter** até **JavaScript, HTML** e metodologias ágeis.  
+
+Atualmente, além da graduação, também estudo **UX Design** pelo **Certificado Profissional do Google (Coursera)** — o que me ajuda a unir **programação e experiência do usuário**.
+
+Tenho interesse especial em:
+- **Automação inteligente** (robôs, bots e scripts práticos)
+- **Desenvolvimento web e desktop**
+- **Integração entre UX, front-end e back-end**
+
+---
+
+## 🚀 Projetos em destaque
+
+| Projeto | Descrição | Tecnologias |
+|:--------|:-----------|:-------------|
+| **[Baixar-Videos-YouTube](https://github.com/xGabrielCv/Baixar-Videos-YouTube)** | Programa desktop desenvolvido em Python (Tkinter) para descarregar vídeos e áudios do YouTube. Permite escolher qualidade, salva MP3/MP4 e corrige erros de sincronização. | Python, Tkinter |
+| **[Auto-Matricula-SIGAA-UnB](https://github.com/xGabrielCv/Auto-Matricula-SIGAA-UnB)** | Robô em Python que automatiza o processo de login e matrícula extraordinária no SIGAA da UnB, com notificações em tempo real para o celular. | Python, Selenium, Automação Web |
+| **[Monitorador-Vagas-SIGAA-Unb](https://github.com/xGabrielCv/Monitorador-Vagas-SIGAA-Unb)** | Script em Python que monitora a página pública de turmas no SIGAA e envia alertas para o celular assim que uma vaga é encontrada. | Python, Requests, Notificações Push |
+| **[SinistrosPRF](https://github.com/xGabrielCv/SinistrosPRF)** | Projeto acadêmico de Banco de Dados 2, com modelagem e consultas em SQL baseadas em dados públicos da PRF. | SQL, HTML, Banco de Dados |
+| **[2025.1-T01-_G2_PinacotecaOnline_Entrega_01-1](https://github.com/xGabrielCv/2025.1-T01-_G2_PinacotecaOnline_Entrega_01-1)** | Projeto acadêmico que simula uma Pinacoteca Virtual, usando **Docsify** e **Kanban** na metodologia. Foco em modelagem e documentação. | HTML, Markdown, Docsify, Kanban |
+| **[2024.1-RISO](https://github.com/xGabrielCv/2024.1-RISO)** | Projeto da disciplina de Requisitos de Software (REQ-T2), com levantamento de requisitos e prototipagem de sistema. | JavaScript, HTML, Figma |
+| **[2023-2-Squad10](https://github.com/xGabrielCv/2023-2-Squad10)** | Projeto colaborativo desenvolvido na UnB. Experiência com versionamento e trabalho em equipe usando Git e GitHub. | HTML, Git, GitHub |
+
+---
+
+## 🧰 Tecnologias & Ferramentas
+
+**💻 Linguagens:**  
+- Python 🐍  
+- JavaScript  
+- HTML5 / CSS3  
+- SQL  
+- Assembly (RISC-V)  
+
+**🧠 Frameworks & Bibliotecas:**  
+- Tkinter (GUI Desktop)  
+- Selenium (Automação Web)  
+- Requests / BeautifulSoup  
+- Docsify (Documentação)  
+
+**🗃️ Banco de Dados:**  
+- MySQL  
+- PostgreSQL  
+- SQLite  
+
+**🎨 Design & UX:**  
+- Figma  
+- Metodologias Ágeis (Kanban, Design Sprint)  
+- UX Research & Wireframing  
+
+**⚙️ Ferramentas & DevOps:**  
+- Git / GitHub  
+- VS Code  
+- Git Bash / Terminal  
+- Ambiente local para testes e automações  
+
+## 📫 Contato
+
+ 
+🐙 **GitHub:** [github.com/xGabrielCv](https://github.com/xGabrielCv)  
+ 
+
+---
 
 
-
-- 🔭 ESTOU TRABALHANDO NA [Disciplina Metodos de Desenvolvimnto de software](https://github.com/unb-mds/2023-2-Squad10)
-
-- 🌱 ESTOU APRENDENDO **C, C++, JAVA E PYTHON**
-
-- 📫 CONTATO **jgabrielcv1903@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/@sgabrie32352805" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@sgabrie32352805" height="30" width="40" /></a>
-<a href="https://discord.gg/xgabrielcv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="xgabrielcv" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://canvasjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
-
-<!-- Linguagens Mais Usadas -->
-![Linguagens Mais Usadas Compactas](https://github-readme-stats.vercel.app/api/top-langs/?username=xgabrielcv&layout=compact&theme=dark)
-
-<!-- Estatísticas Gerais -->
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=xgabrielcv&count_private=true&show_icons=true&theme=dark" alt="xgabrielcv" /></p>
-
-
-![Contribuições Diárias](https://github-readme-streak-stats.herokuapp.com/?user=xgabrielcv&theme=dark)
-
-
-
-
-
-
-
+⭐ **Obrigado por visitar meu perfil!**  
